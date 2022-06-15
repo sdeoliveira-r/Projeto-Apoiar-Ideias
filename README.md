@@ -1,9 +1,10 @@
 # Projeto-Apoiar-Ideias
 
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg " width="50px">
-
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg " width="50px">
-
+## Tecnologias
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ubuntu" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="VsCode" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  
 
 Frontend
 <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg " width="50px">
