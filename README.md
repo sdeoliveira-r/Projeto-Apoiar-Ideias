@@ -1,17 +1,15 @@
+# Projeto-Apoiar-Ideias
 
-#
-* # Projeto-Apoiar-Ideias
+* ## Desenvolvimento:
 
   <div style="display: inline_block"><br>
-  Tecnologias : 
   <img align="center" alt="Ubuntu" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="VsCode" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">  
   
 #
-* # Frontend
+* ## Frontend:
 
   <div style="display: inline_block"><br> 
-  Tecnologias :
   <img align="center" alt="NodeJS" height="72" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="TypeScripy" height="63" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="NextJS" height="72" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
@@ -23,10 +21,9 @@
     - Obs - Commit executado sem a pasta node_modules 
 
 #
-* # Backend
+* ## Backend:
     
   <div style="display: inline_block"><br>
-  Tecnologias :
   <img align="center" alt="Python" height="54" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Django" height="72" width="81" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
   
